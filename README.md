@@ -32,4 +32,5 @@
 
 ## 示例图片
 
-![*示例图片](./img/20230512.png)
+![*示例图片](https://raw.githubusercontent.com/NOVCHN/ChatGPT/main/img/20230512.png)
+
